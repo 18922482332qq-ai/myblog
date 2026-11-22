@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on My New Hugo Project</title>
-		<link>https://18922482332qq-ai.github.io/myblog/posts/</link>
+		<link>http://localhost:1313/myblog/posts/</link>
 		<description>Recent content in Posts on My New Hugo Project</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
@@ -10,14 +10,21 @@
 		
 		
 		
-			<lastBuildDate>Sun, 22 Nov 2026 20:41:36 +0800</lastBuildDate>
+			<lastBuildDate>Sun, 22 Nov 2026 23:33:55 +0800</lastBuildDate>
 		
-			<atom:link href="https://18922482332qq-ai.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>我的第二篇文章</title>
+				<link>http://localhost:1313/myblog/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+				<pubDate>Sun, 22 Nov 2026 23:33:55 +0800</pubDate>
+				<guid>http://localhost:1313/myblog/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+				<description>&lt;p&gt;蔡伟是乐子&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>My First Post</title>
-				<link>https://18922482332qq-ai.github.io/myblog/posts/my-first-post/</link>
+				<link>http://localhost:1313/myblog/posts/my-first-post/</link>
 				<pubDate>Sun, 22 Nov 2026 20:41:36 +0800</pubDate>
-				<guid>https://18922482332qq-ai.github.io/myblog/posts/my-first-post/</guid>
+				<guid>http://localhost:1313/myblog/posts/my-first-post/</guid>
 				<description>&lt;h2 id=&#34;简介&#34;&gt;简介&lt;/h2&gt;&#xA;&lt;p&gt;这是 &lt;strong&gt;粗体&lt;/strong&gt; 文本，这是 &lt;em&gt;斜体&lt;/em&gt; 文本。&lt;/p&gt;&#xA;&lt;p&gt;访问 &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; 网站！&lt;/p&gt;</description>
 			</item>
 	</channel>
